@@ -1,0 +1,245 @@
+
+/* desktop Layout: 1170px. */
+@media only screen and (min-width: 1170px) and (max-width: 1769px) {
+    .container {
+        width: 1170px;
+    }
+
+
+}
+/* Tablet Layout: 970px. */
+
+@media only screen and (min-width: 970px) and (max-width: 1169px) {
+    .container {
+        width: 970px;
+    }
+.menu_area ul li a {
+  font-size: 16px;
+}
+.heading_style_one p {
+  padding: 0 10px;
+}
+.overlay_charitable_incorprate h2 {
+  margin-top: 155px;
+}
+.bx_gallery_home_heading {
+  top: 55px;
+}
+.first_row_dash {
+  margin-right: 29px;
+}
+.right_top_our_founder {
+  width: 60%;
+}
+.left_top_our_founder {
+  margin-right: 20px;
+  width: 336px;
+}
+.border_charitable_foundar {
+  margin-bottom: 18px;
+  margin-top: 20px;
+}
+
+.nivo-caption {
+  top: 135px;
+}
+
+}
+
+/* Tablet Layout: 750px. */
+
+@media only screen and (min-width: 768px) and (max-width: 969px) {
+    .container {
+        width: 750px
+    }
+.menu_area ul li a {
+  font-size: 14px;
+  padding: 0 4px;
+}
+.heading_style_one p {
+  color: #3c3c3c;
+  font-size: 30px;
+  margin-top: 40px;
+  padding: 0;
+}
+.charitable_incorprate_colum_ontwo {
+  margin-top: 39px;
+}
+.overlay_charitable_incorprate h2 {
+  margin-top: 102px;
+}
+.bx_gallery_home_heading {
+  top: 49px;
+}
+.icon_main_para h4 {
+  padding: 0;
+}
+.first_row_dash {
+  margin-right: 21px;
+}
+.border_main_before_after::after {
+  width: 33%;
+}
+.border_main_before_after::before {
+  width: 33%;
+}
+.right_top_our_founder {
+width: 64%;
+}
+.left_top_our_founder {
+margin-right: 18px;
+width: 240px;
+}
+.border_charitable_foundar {
+  margin-bottom: 18px;
+  margin-top: 20px;
+}
+.footer_menu ul li {
+  padding: 0 6px;
+}
+.nivo-caption {
+  top: 50px;
+}
+.captiin_in2 p {
+  font-size: 27px;
+}
+.captiin_in2 h2 {
+  font-size: 46px;
+}
+}
+@media (max-width: 767px) {
+.icon-bar {
+  background: #fff none repeat scroll 0 0;
+}
+.navbar-toggle {
+  background: #b0914f none repeat scroll 0 0;
+}
+.heading_style_one p {
+  padding: 0;
+}
+.charitable_incorprate_column {
+  width: 100%;
+}
+.charitable_incorprate_column {
+  float: none;
+}
+.charitable_incorprate_column_two {
+  width: 100%;
+}
+.charitable_incorprate_colum_ontwo {
+  margin-top: 0;
+}
+.bx_gallery_home_heading {
+  top: 28px;
+}
+.icon_main_para h4 {
+  padding: 0;
+}
+.row_touch {
+  display: inherit;
+}
+.get_in_touch_main {
+  margin-top: 0;
+}
+.get_in_touch_main {
+  padding-bottom: 28px;
+  padding-left: 73px;
+  padding-top: 28px;
+}
+.contact_left {
+  min-height: 300px;
+}
+.copyright_text {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.footer_menu ul {
+  text-align: center;
+}
+.first_row_dash {
+  margin-right: 17px;
+}
+.border_main_before_after::after {
+  width: 25%;
+}
+.border_main_before_after::before {
+  width: 25%;
+}
+.left_top_our_founder {
+  float: none;
+  margin-right: 0;
+  max-width: 100%;
+  text-align: center;
+}
+.right_top_our_founder {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+.border_charitable_foundar {
+  float: none;
+  margin: 33px auto 59px;
+}
+.left_top_our_founder.clearfix {
+  text-align: center;
+  width: 100%;
+}
+.bx-wrapper {
+margin: 0 auto;
+}
+.overlay_charitable_incorprate{
+  width: 100%;
+}
+.bx-viewport {
+  height: inherit !important;
+}
+.single_gallery_missiom {
+  text-align: center;
+}
+}
+@media (max-width: 590px) {
+.first_row_dash {
+  margin-bottom: 25px;
+  margin-right: 0;
+  width: 100%;
+}
+.border_main_before_after::after {
+  width: 12%;
+}
+.border_main_before_after::before {
+  width: 12%;
+}
+.page_heading h1 {
+  margin-top: 46px;
+}
+.left_top_our_founder {
+  float: none;
+  margin-right: 0;
+  max-width: 100%;
+  text-align: center;
+}
+.right_top_our_founder {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+.border_charitable_foundar {
+  float: none;
+  margin: 33px auto 59px;
+}
+.bx-wrapper {
+margin: 0 auto;
+}
+.overlay_charitable_incorprate{
+  width: 100%;
+}
+}
+@media (max-width: 430px) {
+.bx_gallery_home_heading {
+  top: 160px;
+}
+.overlay_charitable_incorprate{
+  width: 100%;
+}
+}
+

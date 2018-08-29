@@ -1,0 +1,711 @@
+body{
+	font-family: 'Raleway', sans-serif !important;
+}
+img{
+	max-width:100%;
+}
+/* frontpage css */
+.header_top_area {
+  background: #fcffff none repeat scroll 0 0;
+  min-height: 50px;
+  font-family: 'pt_serif_captionregular';
+}
+.header_area {
+  background: #620016 none repeat scroll 0 0;
+  padding: 30px 0;
+}
+.header_top_adress p {
+  padding-top: 16px;
+}
+.header_top_phone {
+  text-align: right;
+}
+.header_top_phone a {
+  background: #b0914f none repeat scroll 0 0;
+  color: #ffffff;
+  display: block;
+  float: right;
+  font-size: 19px;
+  min-height: 50px;
+  padding-top: 9px;
+  text-align: center;
+  text-decoration: none;
+  width: 185px;
+  font-family: 'pt_serif_captionregular';
+}
+.header_logo {
+  text-align: center;
+}
+.menu_area {
+  background: #620016 none repeat scroll 0 0;
+}
+.menu_area ul{
+list-style: outside none none;
+margin: 0;
+padding: 10px 0;
+text-align: center;
+	
+}
+.menu_area ul li {
+  border-right: 1px solid #a46e7b;
+  display: inline-block;
+}
+.menu_area ul li:last-child {
+  border-right: 0px solid #a46e7b;
+}
+.menu_area ul li a {
+color: #ffffff;
+display: inline-block;
+font-family: 'cinzelbold';
+font-size: 22px;
+padding: 0 8px;
+text-decoration: none;
+}
+.menu_area ul li a:hover{
+	color:#b0914f;
+}
+
+.slider_area {
+}
+.nivo-directionNav i{
+	font-size:30px;
+	color:#dcd7d6;
+}
+.nivo-prevNav {
+  margin-left: 30px;
+}
+.nivo-nextNav{
+	margin-right: 30px;
+}
+.about_charitable_home_intro {
+margin-bottom: 60px;
+text-align: center;
+}
+.about_charitable_home_area {
+  padding: 85px 0 80px;
+}
+.heading_style_one h6 {
+color: #b0914f;
+font-family: 'cinzelbold';
+font-size: 25px;
+letter-spacing: 5px;
+margin-bottom: 0;
+}
+.heading_style_one h2 {
+color: #333333;
+font-size: 48px;
+margin-top: 0;
+  font-family: 'playfair_displaybold';
+    margin-bottom: 40px;
+}
+.border_charitable {
+  background: #b0914f none repeat scroll 0 0;
+  height: 3px;
+  margin: 0 auto;
+  width: 40px;
+}
+.heading_style_one p {
+ color: #3c3c3c;
+    font-size: 30px;
+    margin-top: 40px;
+    padding: 0 85px;
+}
+.charitable_home_member_area {
+  background: #f9f9f9 none repeat scroll 0 0;
+  padding: 90px 0;
+}
+.heading_style_one.charitable_home_member {
+  margin-bottom: 56px;
+  text-align: center;
+}
+.single_member {
+  background: #ffffff none repeat scroll 0 0;
+  padding: 10px;
+  width: 97%;
+margin-left: 10px;
+margin-right: 10px;
+}
+.single_member_text h4 {
+color: #333333;
+font-size: 28px;
+margin-bottom: 14px;
+margin-top: 30px;
+  font-family: 'playfair_displaybold';
+}
+.member_bottom_border{
+background: #f0f0f0 none repeat scroll 0 0;
+height: 1px;
+}
+.single_member_text > p {
+  color: #7b7b7b;
+  font-size: 22px;
+  margin-bottom: 35px;
+  margin-top: 22px;
+}
+.single_member:hover {
+box-shadow: 0 0 10px #000);
+-moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+-o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+.bx-pager-item {
+  display: inline-block;
+  margin-top: 35px;
+}
+a.bx-pager-link {
+  background: #e0e0e0 none repeat scroll 0 0;
+  border-radius: 50%;
+  display: block;
+  height: 10px;
+  margin-left: 10px;
+  text-indent: -999999px !important;
+  width: 10px;
+}
+.bx-pager.bx-default-pager {
+  text-align: center;
+}
+.bx-pager-link.active {
+  background: #b0914f none repeat scroll 0 0;
+}
+
+.bx_slider_gallery_home_col{
+	padding-left: 0;
+padding-right: 0;
+}
+.heading_style_one.donors_testimonials_heading {
+  padding-top: 80px;
+  text-align: center;
+}
+.testimonial_donors_quote {
+  margin-top: 80px;
+}
+.donors_testimonials_area {
+  padding-bottom: 98px;
+}
+.coursel_main {
+  text-align: center;
+}
+.starsof_quote{}
+.starsof_quote .fa {
+  color: #f2bf52;
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+.icon_main_para h4 {
+color: #7b7b7b;
+font-family: "Raleway",sans-serif;
+font-size: 16px;
+font-style: italic;
+padding: 0 164px;
+}
+.client_name_ratings h3{
+	font-family: 'playfair_displaybold';
+	color:#333333;
+	font-size:14px;
+}
+.client_name_ratings h3 span{
+	color: #b0914f;
+}
+.contact_left_col{
+	padding-left:0;
+	padding-right:0
+}
+.contact_left img {
+  width: 100%;
+}
+.contact_right_bg{
+background: rgba(0, 0, 0, 0) url("img/contct_info_bg.jpg") no-repeat scroll 0 0 / cover ;
+}
+.get_in_touch_main {
+margin-top: 90px;
+padding-left: 73px;
+}
+.border_charitable_contact {
+  margin-bottom: 37px;
+  margin-left: 0;
+}
+.font_icon_get_in_touch span{
+ color: #b0914f;
+font-size: 48px;
+}
+.font_icon_get_in_touch {
+  float: left;
+}
+.get_in_touch_single_info {
+  margin-bottom: 35px;
+}
+.text_get_in_touch {
+  float: left;
+  margin-left: 32px;
+  margin-top: -5px;
+}
+.text_get_in_touch h4 {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom:0;
+}
+.text_get_in_touch p {
+  color: #aeaeae;
+  font-size: 20px;
+}
+.get_in_touch_heading h2 {
+  color: #ffffff;
+}
+.footer_area {
+  background: #222222 none repeat scroll 0 0;
+  padding: 30px 0;
+}
+.footer_menu ul{list-style: outside none none;
+margin: 0;
+padding: 0;
+text-align: right;}
+.footer_menu ul li{border-right: 1px solid #7b7b7b;
+display: inline-block;
+padding: 0 10px;}
+.footer_menu ul li:last-child{
+	border-right: 0px solid #7b7b7b;
+}
+.footer_menu ul li a{color: #7b7b7b;
+font-size: 14px;
+text-decoration: none;}
+.footer_menu ul li a:hover{}
+.copyright_text p {
+  color: #b0914f;
+  font-size: 14px;
+  margin-bottom:0;
+}
+.copyright_text a {
+  color: #7b7b7b;
+  text-decoration: none;
+}
+.contact_left_bg{
+	background: rgba(0, 0, 0, 0) url("img/contact_left.jpg") repeat scroll 0 0 / cover ;
+}
+.row_touch{
+	display:flex;
+}
+
+
+.charitable_incorprate_column {
+  float: left;
+}
+.charitable_incorprate_column {
+  width: 30%;
+}
+.charitable_incorprate_column_two{
+	width:40%
+}
+.charitable_incorprate_colum_ontwo {
+  margin-top: 77px;
+}
+
+
+
+
+.image_for_effect{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.overlay_charitable_incorprate{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 0%;
+  transition: .5s ease;
+  background-color: rgba(88, 72, 39, 0.78)
+}
+.single_charitable_incorprate{
+	position:relative;
+}
+
+.charitable_incorprate_column:hover .overlay_charitable_incorprate{
+	width:100%;
+}
+.overlay_charitable_incorprate {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+.overlay_charitable_incorprate h2 {
+  margin-top: 248px;
+  text-align: center;
+  font-family: 'cinzelblack';
+}
+
+
+
+/* how to apply */
+.page_heading_area {
+  min-height: 400px;
+}
+.how_to_apply_heading{ background: rgba(0, 0, 0, 0) url("img/how-to-apply/bg.jpg") no-repeat scroll 0 0 / cover ;}
+.page_heading{
+	text-align:center;
+	
+}
+.page_heading h1 {
+color: #fff;
+font-family: 'playfair_displaybold';
+font-size: 60px;
+font-weight: bold;
+margin-bottom: 20px;
+margin-top: 155px;
+}
+.page_heading h6 {
+  color: #ffffff;
+  font-size: 14px;
+}
+.how_to_apply_content_area {
+  margin-top: 100px;
+}
+.how_to_apply_content_heading h6 {
+  font-size: 14px;
+}
+.how_to_apply_content_simple p {
+  color: #414141;
+  font-family: "Raleway",sans-serif;
+  font-size: 31px;
+  margin-bottom: 50px;
+}
+.single_how_to_apply_unorderlist_content h3 {
+  color: #414141;
+  font-size: 34px;
+   font-family: "Raleway",sans-serif;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+.single_how_to_apply_unorderlist_content h4{
+	color:#414141;
+	font-family: "Raleway",sans-serif;
+	 font-weight: 600;
+	 font-size:31px;
+}
+.single_how_to_apply_unorderlist_content ul {
+  list-style: outside none none;
+  margin: 15px;
+  padding: 0;
+}
+.single_how_to_apply_unorderlist_content ul li {
+  display: block;
+  font-size: 31px;
+  margin-bottom: 24px;
+}
+.single_how_to_apply_unorderlist_content {
+  margin-bottom: 65px;
+}
+.border_how_to_apply_con hr {
+  background: #666666 none repeat scroll 0 0;
+  height: 1px;
+  margin-bottom: 55px;
+}
+.application_procidure h4 {
+  color: #414141;
+  font-size: 31px;
+  font-weight: 600;
+}
+.application_procidure p {
+  font-size: 31px;
+  margin-bottom: 60px;
+}
+
+.social_profile_pages{}
+.social_profile{}
+.social_profile ul{list-style: outside none none;
+margin: 0;
+padding: 0;
+text-align: center;}
+.social_profile ul li{display: inline-block;}
+.social_profile ul li a{border: 1px solid #333333;
+border-radius: 50%;
+color: #333333;
+display: block;
+height: 30px;
+margin: 10px;
+padding: 5px;
+text-decoration: none;
+width: 30px;}
+.social_profile ul li a:hover{}
+.how_to_apply_content {
+  padding-bottom: 0px;
+}
+
+.border_main_before_after{position: relative;
+width: 100%;}
+.border_main_before_after:before{background: #666666 none repeat scroll 0 0;
+content: "";
+height: 1px;
+left: 0;
+position: absolute;
+top: 25px;
+width: 40%;}
+.border_main_before_after:after{
+background: #666666 none repeat scroll 0 0;
+content: "";
+height: 1px;
+position: absolute;
+right: 0;
+top: 25px;
+width: 40%;
+}
+
+/* our founder page */
+.our_founderp_heading{
+background: rgba(0, 0, 0, 0) url("img/our-founder/bg.jpg") no-repeat scroll 0 0 / cover ;
+}
+.left_top_our_founder {
+float: left;
+margin-right: 55px;
+width: 470px;
+}
+.right_top_our_founder {
+}
+.right_top_our_founder_heading h6 {
+  color: #b0914f;
+  font-size: 14px;
+  margin-bottom: 0;
+  font-family: 'cinzelblack';
+}
+.right_top_our_founder_heading h2 {
+  color: #333333;
+  font-size: 45px;
+  margin: 0;
+  font-family: 'playfair_displaybold';
+}
+.border_charitable_foundar{
+background: #b0914f none repeat scroll 0 0;
+display: block;
+float: left;
+height: 3px;
+margin-bottom: 59px;
+margin-top: 33px;
+width: 40px;
+}
+.right_top_our_founder {
+  float: left;
+  width: 50%;
+}
+.right_top_our_founder_text p {
+ font-size: 18px;
+margin-bottom: 40px; 
+}
+.bootom_content_our_founder p {
+  color: #414141;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.bootom_content_our_founder {
+  margin-bottom: 60px;
+}
+
+
+/* our mission page */
+.our_missiom_heading {
+  background: rgba(0, 0, 0, 0) url("img/our-mission/mission_bg.jpg") no-repeat scroll 0 0 / cover ;
+}
+.our_mission_paragraph p {
+  color: #414141;
+  font-size: 31px;
+  margin-bottom: 35px;
+}
+.our_mission_page_main_content {
+  margin-bottom: 60px;
+}
+
+/* who we are */
+.who_we_are_heading {
+  background: rgba(0, 0, 0, 0) url("img/who-we-are/heading_bg.jpg") no-repeat scroll 0 0 / cover ;
+}
+.who_we_are_page_intro p {
+  color: #414141;
+  font-size: 31px;
+  margin-bottom: 60px;
+}
+.founders_mission_who h3 {
+  color: #414141;
+  font-size: 31px;
+  font-weight: 500;
+  margin-bottom: 60px;
+}
+.foundation_staff ul,.founders_mission_who ul{
+list-style: outside none none;
+margin: 0;
+padding: 0;
+}
+.foundation_staff ul li,.founders_mission_who ul li {
+  display: block;
+  font-size: 31px;
+  font-weight: 300;
+}
+.who_we_are_nextintro {
+  margin-top: 60px;
+}
+.who_we_are_nextintro p {
+  color: #414141;
+  font-size: 31px;
+  font-weight: 300;
+}
+.communities_serve {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.foundation_staff h3,.communities_serve h3 {
+  color: #414141;
+  font-size: 31px;
+  font-weight: 500;
+}
+.communities_serve p {
+  color: #414141;
+  font-size: 31px;
+  font-weight: 300;
+}
+.foundation_staff {
+  margin-bottom: 60px;
+}
+/* contact us  */
+.contact_page_heading {
+  background: rgba(0, 0, 0, 0) url("img/contact-us/contact_us_bg.jpg") no-repeat scroll 0 0 / cover ;
+}
+.contactpage_left_bg {
+  background: rgba(0, 0, 0, 0) url("img/contact-us/map.jpg") repeat scroll 0 0;
+}
+.contactpage_right_bg {
+  background: #f9f9f9 none repeat scroll 0 0;
+}
+.contact_page_right_info_head{}
+.contact_page_right_info_head h3 {
+  color: #333333;
+  font-size: 23px;
+  font-family: 'playfair_displaybold';
+}
+.contact_page_right_info_head h2 {
+  color: #333333;
+  font-size: 20px;
+  font-family: 'playfair_displaybold';
+}
+.contact_page_info_gtint .text_get_in_touch.clearfix h4 {
+  color: #333333;
+  font-size: 18px;
+}
+.contact_page_info_gtint .text_get_in_touch p {
+  color: #666666;
+  font-size: 18px;
+}
+.contact_page_info_gtint .font_icon_get_in_touch span{
+  font-size: 40px;
+}
+.contact_page_form_heading {
+  text-align: center;
+  margin-bottom: 90px;
+}
+.contact_page_contact_area {
+  margin-bottom: 60px;
+  margin-top: 90px;
+}
+.first_row_dash {
+  border: 1px solid #f0f0f0;
+  color: #aeaeae;
+  font-size: 14px;
+  margin-right: 36px;
+  min-height: 48px;
+  padding-left: 19px;
+  width: 31%;
+}
+.first_row_dash:last-child{
+	margin-right: 0px;
+}
+.second_row_dash{
+border: 1px solid #f0f0f0;
+color: #aeaeae;
+font-size: 14px;
+margin-top: 32px;
+min-height: 200px;
+width: 100%;
+padding:20px;
+}
+.form_third_row {
+  text-align: center;
+}
+.form_third_row input {
+  background: rgba(0, 0, 0, 0) url("img/contact-us/submit_bttn.png") repeat scroll 0 0;
+  border: 0 none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  min-height: 33px;
+  text-indent: -999999px;
+  width: 76px;
+}
+
+
+
+
+/* customize css  */
+.single_gallery_slide > img {
+  width: 100% !important;
+}
+.member_slider .bx-viewport {
+  height: 430px !important;
+}
+
+
+
+
+/* slider css */
+.nivo-caption {
+  background: inherit;
+  box-sizing: border-box;
+  color: #fff;
+  display: none;
+  left: 0;
+  opacity: 0.8;
+  overflow: hidden;
+  padding: 5px 10px;
+  position: absolute;
+  text-align: center;
+  top: 273px;
+  width: 100%;
+  z-index: 8;
+}
+.captiin_in2 p {
+  font-size: 41px;
+  letter-spacing: 1.5px;
+  text-transform:uppercase;
+  font-family: 'Raleway', sans-serif !important;
+  font-weight:500;
+  margin:0;
+}
+.captiin_in2 p span{
+  font-weight:600;
+}
+.captiin_in2 h2 {
+  font-size: 70px;
+  text-transform: uppercase;
+   font-family: 'playfair_displaybold';
+   margin:0;
+}
+.gallery_mission_col {
+  padding-left: 0;
+  padding-right: 0px;
+}
+.nivo-lightbox-theme-default .nivo-lightbox-close {
+  height: 24px;
+  width: 24px;
+}
+.mission_page_gallery {
+  margin-bottom: 60px;
+}
+.social_profile_pages {
+  margin-bottom: 50px;
+}
